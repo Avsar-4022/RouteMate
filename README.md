@@ -1,10 +1,10 @@
-# 🚗 RouteMate - College Ride Sharing Platform
+# 🚗 CampusCruz - College Ride Sharing Platform
 
 > A modern ride-sharing platform designed specifically for college students. Connect with fellow students, share rides, and build your campus community while saving money on transportation.
 
-## 📖 What is RouteMate?
+## 📖 What is CampusCruz?
 
-RouteMate is a comprehensive ride-sharing application that helps college students coordinate transportation to and from campus. Whether you're a driver looking to earn points by offering rides or a student needing a lift, CampusCruz makes campus commuting easier, more affordable, and more social.
+CampusCruz is a comprehensive ride-sharing application that helps college students coordinate transportation to and from campus. Whether you're a driver looking to earn points by offering rides or a student needing a lift, CampusCruz makes campus commuting easier, more affordable, and more social.
 
 ## ✨ Key Features
 
@@ -156,4 +156,5 @@ Special thanks to the college community for inspiring this project and providing
 <p align="center">
   <strong>Making campus transportation smarter, one ride at a time</strong> 🎓
 </p>
+
 
